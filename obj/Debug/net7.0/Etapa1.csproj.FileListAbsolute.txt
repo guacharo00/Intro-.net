@@ -1,0 +1,15 @@
+/Users/luisfructuoso/Desktop/DotNet/Etapa1/bin/Debug/net7.0/Etapa1
+/Users/luisfructuoso/Desktop/DotNet/Etapa1/bin/Debug/net7.0/Etapa1.deps.json
+/Users/luisfructuoso/Desktop/DotNet/Etapa1/bin/Debug/net7.0/Etapa1.runtimeconfig.json
+/Users/luisfructuoso/Desktop/DotNet/Etapa1/bin/Debug/net7.0/Etapa1.dll
+/Users/luisfructuoso/Desktop/DotNet/Etapa1/bin/Debug/net7.0/Etapa1.pdb
+/Users/luisfructuoso/Desktop/DotNet/Etapa1/obj/Debug/net7.0/Etapa1.csproj.AssemblyReference.cache
+/Users/luisfructuoso/Desktop/DotNet/Etapa1/obj/Debug/net7.0/Etapa1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisfructuoso/Desktop/DotNet/Etapa1/obj/Debug/net7.0/Etapa1.AssemblyInfoInputs.cache
+/Users/luisfructuoso/Desktop/DotNet/Etapa1/obj/Debug/net7.0/Etapa1.AssemblyInfo.cs
+/Users/luisfructuoso/Desktop/DotNet/Etapa1/obj/Debug/net7.0/Etapa1.csproj.CoreCompileInputs.cache
+/Users/luisfructuoso/Desktop/DotNet/Etapa1/obj/Debug/net7.0/Etapa1.dll
+/Users/luisfructuoso/Desktop/DotNet/Etapa1/obj/Debug/net7.0/refint/Etapa1.dll
+/Users/luisfructuoso/Desktop/DotNet/Etapa1/obj/Debug/net7.0/Etapa1.pdb
+/Users/luisfructuoso/Desktop/DotNet/Etapa1/obj/Debug/net7.0/Etapa1.genruntimeconfig.cache
+/Users/luisfructuoso/Desktop/DotNet/Etapa1/obj/Debug/net7.0/ref/Etapa1.dll
